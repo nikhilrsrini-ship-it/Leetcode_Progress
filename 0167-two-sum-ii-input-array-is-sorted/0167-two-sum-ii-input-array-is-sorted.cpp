@@ -1,21 +1,18 @@
-
-#include <vector>
-#include <unordered_map>
-using namespace std;
-
 class Solution {
 public:
     vector<int> twoSum(vector<int>& numbers, int target) {
-        unordered_map<int, int> hashmap;
+        int left = 0;
+        int right = numbers.size() - 1;
 
-        for (int i = 0; i < numbers.size(); i++) {
-            int needed = target - numbers[i];
+        while (left < right) {
+            int sum = numbers[left] + numbers[right];
 
-            if (hashmap.find(needed) != hashmap.end()) {
-                return {hashmap[needed]+1, i+1};
-            }
-
-            hashmap[numbers[i]] = i;
+            if (sum == target)
+                return {left + 1, right + 1};
+            else if (sum < target)
+                left++;
+            else
+                right--;
         }
 
         return {};
