@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0226-invert-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
