@@ -42,13 +42,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0001-two-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
