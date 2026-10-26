@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
