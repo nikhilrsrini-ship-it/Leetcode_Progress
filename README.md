@@ -31,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
