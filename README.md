@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0643-maximum-average-subarray-i) |
+| [1480-running-sum-of-1d-array](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,4 +95,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0209-minimum-size-subarray-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
