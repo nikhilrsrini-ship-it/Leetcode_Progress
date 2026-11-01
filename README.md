@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0746-min-cost-climbing-stairs) |
 ## Array
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0322-coin-change) |
 | [0525-contiguous-array](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0746-min-cost-climbing-stairs) |
@@ -129,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
