@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0392-is-subsequence) |
 ## Array
 |  |
@@ -116,5 +117,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0263-ugly-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
