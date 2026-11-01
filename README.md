@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0125-valid-palindrome) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0242-valid-anagram) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0213-house-robber-ii) |
@@ -140,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0322-coin-change) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
