@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0242-valid-anagram) |
