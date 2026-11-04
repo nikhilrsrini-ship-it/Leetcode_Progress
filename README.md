@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0322-coin-change) |
 | [0525-contiguous-array](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0525-contiguous-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0525-contiguous-array) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -145,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
@@ -169,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0054-spiral-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
