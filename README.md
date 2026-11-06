@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0198-house-robber) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0016-3sum-closest) |
 | [0054-spiral-matrix](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0055-jump-game) |
 ## Sorting
 |  |
 | ------- |
