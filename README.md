@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0567-permutation-in-string) |
 ## String
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0242-valid-anagram) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0507-perfect-number) |
@@ -197,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0128-longest-consecutive-sequence) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
