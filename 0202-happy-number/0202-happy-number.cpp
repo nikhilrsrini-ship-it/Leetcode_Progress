@@ -13,14 +13,14 @@ public:
     }
 
     bool isHappy(int n) {
-        unordered_set<int> count;
-
+        int slow = n;
+        int fast = n;
         while (n != 1) {
-            n = happynum(n);
+            slow = happynum(slow);
+            fast = happynum(happynum(fast));
 
-            if (!count.insert(n).second) {
-                return false;
-            }
+            if(fast ==1) return true;
+            if(fast == slow) return false;
         }
 
         return true;
