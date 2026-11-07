@@ -1,28 +1,28 @@
 class Solution {
 public:
-    int happynum(int s){
+    int happynum(int s) {
         int sum = 0;
-        string str = to_string(s);
-        for (int i = 0; i < str.size(); i++) {
-            int digit = str[i] - '0';
+
+        while (s > 0) {
+            int digit = s % 10;
             sum += digit * digit;
+            s /= 10;
         }
+
         return sum;
     }
-    bool isHappy(int n) {
-        if(n==1)return true;
-        int a = n;
-        unordered_map<int,int>count;
-        while(true){
-            int b = happynum(a);
-            if(b == 1) return true;
-            if(count.find(b)!=count.end()) return false;
-            
-            else{
-                count[b]++;
-                a = b;
-            }
 
+    bool isHappy(int n) {
+        unordered_set<int> count;
+
+        while (n != 1) {
+            n = happynum(n);
+
+            if (!count.insert(n).second) {
+                return false;
+            }
         }
+
+        return true;
     }
 };
