@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0198-house-robber) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0263-ugly-number) |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0056-merge-intervals) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
