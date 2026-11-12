@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0567-permutation-in-string) |
+| [1143-longest-common-subsequence](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/1143-longest-common-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
