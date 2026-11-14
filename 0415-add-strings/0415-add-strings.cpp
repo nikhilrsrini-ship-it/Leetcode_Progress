@@ -10,16 +10,13 @@ public:
         while(i >= 0 || j >= 0 || carry > 0) {
             int sum = carry;
 
-            if(i >= 0) sum += num1[i] - '0';
-            if(j >= 0) sum += num2[j] - '0';
+            if(i >= 0){ sum += num1[i] - '0'; i--;}
+            if(j >= 0){ sum += num2[j] - '0'; j--;}
 
             carry = sum / 10;
             int digit = sum % 10;
 
             ans += to_string(digit);
-
-            i--;
-            j--;
         }
         reverse(ans.begin(),ans.end());
         return ans;
