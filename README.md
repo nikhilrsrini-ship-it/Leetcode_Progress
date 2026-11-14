@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0567-permutation-in-string) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
