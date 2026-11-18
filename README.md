@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0278-first-bad-version) |
 ## Hash Table
 |  |
 | ------- |
@@ -284,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0181-employees-earning-more-than-their-managers) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
