@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0367-valid-perfect-square) |
 ## Hash Table
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0292-nim-game) |
+| [0367-valid-perfect-square](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0509-fibonacci-number) |
