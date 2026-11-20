@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0746-min-cost-climbing-stairs) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0455-assign-cookies) |
 ## Sliding Window
 |  |
 | ------- |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0455-assign-cookies) |
 ## Combinatorics
 |  |
 | ------- |
