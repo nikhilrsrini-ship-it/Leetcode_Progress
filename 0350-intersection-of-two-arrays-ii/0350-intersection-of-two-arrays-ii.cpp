@@ -13,7 +13,7 @@ public:
                 ans.push_back(nums3[i]);
                 hashmap[nums3[i]].pop_back();
                 if (hashmap[nums3[i]].empty()) {
-                    hashmap.erase(nums3[i]); // Removes the key from the map completely
+                    hashmap.erase(nums3[i]);
                 }
             }
             else continue;
