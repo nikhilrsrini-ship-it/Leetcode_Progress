@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0746-min-cost-climbing-stairs) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/1480-running-sum-of-1d-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0509-fibonacci-number) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Memoization
 |  |
 | ------- |
