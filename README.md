@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0016-3sum-closest) |
+| [0061-rotate-list](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0202-happy-number) |
@@ -339,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0292-nim-game) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
