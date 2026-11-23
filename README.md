@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/1480-running-sum-of-1d-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Binary Search
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0367-valid-perfect-square) |
+| [0875-koko-eating-bananas](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
