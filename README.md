@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0509-fibonacci-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2119-a-number-after-a-double-reversal](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/2119-a-number-after-a-double-reversal) |
 ## Memoization
 |  |
 | ------- |
