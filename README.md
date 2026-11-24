@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0303-range-sum-query-immutable) |
+| [1603-design-parking-system](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/1603-design-parking-system) |
 ## Math
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0682-baseball-game) |
+| [1603-design-parking-system](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/1603-design-parking-system) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0347-top-k-frequent-elements) |
+| [1603-design-parking-system](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/1603-design-parking-system) |
 ## Quickselect
 |  |
 | ------- |
