@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0875-koko-eating-bananas) |
+| [0997-find-the-town-judge](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0997-find-the-town-judge) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/1480-running-sum-of-1d-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Binary Search
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0567-permutation-in-string) |
+| [0997-find-the-town-judge](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0997-find-the-town-judge) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -359,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0094-binary-tree-inorder-traversal) |
 | [0682-baseball-game](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0682-baseball-game) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
