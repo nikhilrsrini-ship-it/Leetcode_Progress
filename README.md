@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0875-koko-eating-bananas) |
 | [0997-find-the-town-judge](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0997-find-the-town-judge) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/1480-running-sum-of-1d-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
