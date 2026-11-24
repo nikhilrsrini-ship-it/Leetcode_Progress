@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/1480-running-sum-of-1d-array) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0682-baseball-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -353,4 +355,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0094-binary-tree-inorder-traversal) |
+| [0682-baseball-game](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
