@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0997-find-the-town-judge) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/1480-running-sum-of-1d-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/2073-time-needed-to-buy-tickets) |
 ## Binary Search
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0682-baseball-game) |
 | [1603-design-parking-system](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/1603-design-parking-system) |
+| [2073-time-needed-to-buy-tickets](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/2073-time-needed-to-buy-tickets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -369,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0997-find-the-town-judge](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/1791-find-center-of-star-graph) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
