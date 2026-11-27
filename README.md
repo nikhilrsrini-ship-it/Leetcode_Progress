@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0213-house-robber-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0217-contains-duplicate) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0347-top-k-frequent-elements) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0268-missing-number) |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0347-top-k-frequent-elements) |
 | [1603-design-parking-system](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/1603-design-parking-system) |
 ## Quickselect
@@ -375,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/2073-time-needed-to-buy-tickets) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nikhilrsrini-ship-it/Leetcode_Progress/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
